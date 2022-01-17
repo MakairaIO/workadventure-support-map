@@ -25,7 +25,7 @@
                 {
                  "name":"jitsiConfig",
                  "type":"string",
-                 "value":"{ \"subject\": \"Makaira meeting room\" } "
+                 "value":"{ \"subject\": \"Makaira meeting room\",\n\"startWithAudioMuted\": true,\n\"startWithVideoMuted\": true\n  } "
                 }, 
                 {
                  "name":"jitsiRoom",
